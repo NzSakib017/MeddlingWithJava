@@ -3,7 +3,7 @@ Here some random coding problems are solved/practiced using Java &amp; IntelliJ 
 
 
 ## Project Summary:
-For some coding practice here I tried to get to solution of some basic coding problems. I used the programing language "Java" for this, with an intention to pratcie some OOP alongwith.
+For some coding practice here I tried to get to solution of some basic coding problems. I used the programing language "Java" for this, with an intention to practice some OOP along with.
 For some problems (which I could) I programmed the solution in more than one way of approaching
 
 
@@ -20,7 +20,7 @@ The problems that were picked includes,
 
 - Printing in a certain way.
 - Retrieve/generate desired info or digits.
-- Figuaring Max & Min value.
+- Figuring Max & Min value.
 - Swapping values & order.
 - Prime numbers picking from a certain range.
 - Palindrome check.
