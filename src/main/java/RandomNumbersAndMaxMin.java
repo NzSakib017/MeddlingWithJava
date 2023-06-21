@@ -20,7 +20,7 @@ public class RandomNumbersAndMaxMin {
         System.out.println("The 10 Random Integers Are: ");
 
         for (int i = 0; i < 10; i++) {
-            numbers.add((int) (Math.random() * ((maxRange - minRange) + minRange)));
+            numbers.add((int) (Math.random() * (maxRange - minRange) + minRange));
             if (numbers.get(i) > max)
                 max = numbers.get(i);
             if (numbers.get(i) < min)
